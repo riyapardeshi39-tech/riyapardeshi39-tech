@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
 
 # 💫 About Me:
 DevOps Engineer | AWS | Linux | Docker | Kubernetes | Jenkins| Ansible | Terraform<br>| Python | Shell|
